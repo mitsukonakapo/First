@@ -1,0 +1,53 @@
+*{
+    padding:0;
+    margin:50 0;     
+}
+body{
+    background:url(Imagenes/ep.png) repeat fixed;
+}
+
+.title{
+    font-size:80;
+    font-family: center;
+    color: #00C896;
+    margin:0;
+    text-align: center;
+    text-decoration: none;
+}
+
+.if{
+    color:#008F7A;
+    font-family: center;
+    margin: 0;
+    padding:0;
+    letter-spacing:inherit;
+}
+
+.title2{
+    font-size:60;
+    font-family:center;
+    color:#008F7A;
+    margin:10 0 0 0;
+    text-align:center;
+    line-height: 0;
+}
+a:hover{color: darkgray}
+a{
+text-decoration: none;
+    color: #707070;
+    margin: 80;
+    font-family:pacifico;
+}
+div{
+    text-align: center;
+    font-size:29;
+    margin:100 100;
+    padding:0;
+    text-decoration:none;
+    line-height:0;    
+}
+footer{
+    margin:0;
+    padding: 50 0 0 0;
+    text-align: center;
+}
